@@ -37,3 +37,4 @@ I'm Paulo TavaresMaster of Science in the area of ​​Nuclear Technology Appli
 |[Panorama do COVID 19 no Brasil e no mundo](https://github.com/ptavares96/COVID19_project)|
 |[Técnica de cross-validatin para classificação de medicamentos](https://github.com/ptavares96/drugs_classification_cross_validation)|
 |[Churn Prediction](https://github.com/ptavares96/churn_prediction_project)|
+|[AutoML - Health Insurance](https://github.com/ptavares96/Proejto_Health_Insurance/blob/main/Projeto_Insurance_Health.ipynb)|
