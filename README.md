@@ -38,3 +38,4 @@ I'm Paulo TavaresMaster of Science in the area of ​​Nuclear Technology Appli
 |[Técnica de cross-validatin para classificação de medicamentos](https://github.com/ptavares96/drugs_classification_cross_validation)|
 |[Churn Prediction](https://github.com/ptavares96/churn_prediction_project)|
 |[AutoML - Health Insurance](https://github.com/ptavares96/Proejto_Health_Insurance/blob/main/Projeto_Insurance_Health.ipynb)|
+|[AutoML para classificação](https://github.com/ptavares96/Projeto---Utilizando-AutoML-para-problemas-de-classifica-o)|
