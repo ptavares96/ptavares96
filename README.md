@@ -39,3 +39,4 @@ I'm Paulo TavaresMaster of Science in the area of ​​Nuclear Technology Appli
 |[Churn Prediction](https://github.com/ptavares96/churn_prediction_project)|
 |[AutoML - Health Insurance](https://github.com/ptavares96/Proejto_Health_Insurance/blob/main/Projeto_Insurance_Health.ipynb)|
 |[AutoML para classificação](https://github.com/ptavares96/Projeto---Utilizando-AutoML-para-problemas-de-classifica-o)|
+|[Machine learning for food delivery prediction](https://github.com/ptavares96/food_time_delivery#machine-learning-for-food-delivery-prediction)|
