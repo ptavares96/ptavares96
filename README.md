@@ -30,7 +30,6 @@ Working with data scientist and data analysis.
 
 #
 
-| Projects and articles |
+| Projects|
 | --------------- |
-|[Análise de dados do Airbnb - São Francisco](https://github.com/ptavares96/Analise_de_dados_Airbnb)|
-|[Tratamento de dados outliers]([https://github.com/ptavares96/dados_ausentes_outliers](https://medium.com/@p.tavares/encontrando-valores-outliers-2a55f33e14d6)https://medium.com/@p.tavares/encontrando-valores-outliers-2a55f33e14d6)|
+|[Airbnb analysis - San Francisco](https://github.com/ptavares96/Analise_de_dados_Airbnb)|
