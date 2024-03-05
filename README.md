@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Paulo TavaresMaster of Science in the area of ​​Nuclear Technology Applications Institute of Energy and Nuclear Research - IPEN-CNEN/USP (2021) . Graduated in Medical Physics from the Federal University of Sergipe (2018). Currently a PhD student in Science in the area of ​​Nuclear Technology Applications at IPEN-CNEN/USP. Data Scientist in Python.
+I'm Paulo Tavares. PhD student in Science in the area of ​​Nuclear Technology Applications. 
+Working with data scientist and data analysis. 
 #
 
 #### Contacts:
@@ -29,7 +30,7 @@ I'm Paulo TavaresMaster of Science in the area of ​​Nuclear Technology Appli
 
 #
 
-| Projects |
+| Projects and articles |
 | --------------- |
 |[Análise de dados do Airbnb - São Francisco](https://github.com/ptavares96/Analise_de_dados_Airbnb)|
-|[Tratamento de dados outliers](https://github.com/ptavares96/dados_ausentes_outliers)|
+|[Tratamento de dados outliers]([https://github.com/ptavares96/dados_ausentes_outliers](https://medium.com/@p.tavares/encontrando-valores-outliers-2a55f33e14d6)https://medium.com/@p.tavares/encontrando-valores-outliers-2a55f33e14d6)|
