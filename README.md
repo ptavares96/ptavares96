@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm Paulo Tavares. PhD student in Science in the area of ​​Nuclear Technology Applications. 
-Working with data scientist and data analysis. 
 #
 
 #### Contacts:
