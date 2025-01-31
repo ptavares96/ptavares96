@@ -34,7 +34,7 @@ I'm Paulo Tavares. PhD student in Science in the area of ​​Nuclear Technolog
 | Projects|
 | --------------- |
 |[Python Airbnb analysis - San Francisco](https://github.com/ptavares96/Analise_de_dados_Airbnb)|
-|[Dashbroad RH em Power BI](https://github.com/ptavares96/Dashboards-RH)|
+|[Dashboard RH em Power BI](https://github.com/ptavares96/Dashboards-RH)|
 |[Churn Analysis of Telco Customers in Power BI](https://github.com/ptavares96/Churn-Analysis)|
 |[Análise de Dados com SQL - Dados de Turismo no Brasil entre 2020 e 2024](https://github.com/ptavares96/analise-de-dados-com-sql---dados-de-turismo-brasil-2020-e-2024)|
 
